@@ -3,7 +3,7 @@ This is a web application built using HTML, CSS, and JavaScript to visualize cla
 
 **Live-** [Visualizer](https://dharshakch97.github.io/sort-visualizer/) 
 
-**Code-** [Visualizer_code](https://github.com/dharshakch97/sort-visualizer)
+**Code-** [Visualizer_code](https://github.com/abhishekkumar369/Sorting-Algo-Visualizer.git)
 
 
 
