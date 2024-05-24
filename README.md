@@ -1,9 +1,9 @@
 # Sorting Algorithm Visualizer
 This is a web application built using HTML, CSS, and JavaScript to visualize classic sorting algorithms such as bubble sort, insertion sort, selection sort, merge sort, and quick sort. The main objective of this project is to provide an interactive and educational tool for understanding how these fundamental sorting algorithms work.
 
-**Live-** [sorting visualizer](https://dharshakch97.github.io/sort-visualizer/) 
+**Live-** [Visualizer](https://dharshakch97.github.io/sort-visualizer/) 
 
-**Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
+**Code-** [Visualizer_code](https://github.com/dharshakch97/sort-visualizer)
 
 
 
