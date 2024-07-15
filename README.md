@@ -19,14 +19,22 @@ This application supports the following sorting algorithms:
 
 
 
-(1) Bubble Sort: Visualizes the process of repeatedly stepping through the list, comparing adjacent elements and swapping them if they are in the wrong order.
-(2) Insertion Sort: Demonstrates how the algorithm builds the sorted array one item at a time by repeatedly taking the next element from the unsorted part and inserting it into the correct position.
+- Bubble Sort:
+  Visualizes the process of repeatedly stepping through the list, comparing adjacent elements and swapping them if they are in the wrong order.
+  
+- Insertion Sort:
+  Demonstrates how the algorithm builds the sorted array one item at a time by repeatedly taking the next element from the unsorted part and inserting it into the correct 
+  position.
 
-(3) Selection Sort: Shows the process of selecting the smallest (or largest) element from the unsorted part and swapping it with the first unsorted element.
+- Selection Sort:
+  Shows the process of selecting the smallest (or largest) element from the unsorted part and swapping it with the first unsorted element.
 
-(4) Merge Sort: Illustrates the divide-and-conquer approach, where the array is recursively divided into smaller arrays until each contains a single element, and then merged back together in sorted order.
+- Merge Sort:
+  Illustrates the divide-and-conquer approach, where the array is recursively divided into smaller arrays until each contains a single element, and then merged back together 
+  in sorted order.
 
-(5) Quick Sort: Displays the algorithm's partitioning process, where the array is divided into sub-arrays around a pivot element, which are then sorted independently.
+- Quick Sort:
+  Displays the algorithm's partitioning process, where the array is divided into sub-arrays around a pivot element, which are then sorted independently.
 
 
 
